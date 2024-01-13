@@ -1,0 +1,65 @@
+.first{
+    width: 400px;
+    box-shadow: 8px 8px 8px hsl(223, 47%, 23%);
+    height: 650px;
+    border-radius: 20px;
+    margin-left: 100px;
+}
+.image{
+    width: 400px;
+    border-radius: 20px 20px 0px 0px;
+}
+.order{
+    text-align: center;
+}
+.imag{
+    display: flex;
+    flex-direction: row;
+    background-color: hsl(225, 100%, 98%);
+    width: 300px;
+    height: 80px;
+    align-items: center;
+    margin-left: 40px;
+    padding: 10px;
+    border-radius: 10px;
+}
+.summary{
+    font-size: 30px;
+    color: hsl(245, 75%, 52%);
+    margin-top: 30px;
+    font-family: fantasy;
+}
+.can{
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    color:hsl(245, 86%, 67%);
+}
+.annual{
+    text-align: center;
+    font-size: 17px;
+    margin-left: 10px;
+    color: hsl(224, 23%, 55%);
+}
+.plan{
+    color:hsl(224, 97%, 27%);
+}
+.chan{
+    margin-left: 90px;
+    color:hsl(224, 97%, 27%);
+    text-decoration: underline;
+}
+.to{
+    margin-top: 30px;
+    width: 300px;
+    height: 40px;
+    border-radius: 11px;
+    box-shadow: 8px 8px 8px rgb(102, 102, 102);
+    border: 0px;
+    background-color: hsl(245, 75%, 52%);
+    color: white;
+}
+.cancel{
+    margin-top: 30px;
+    color: hsl(245, 75%, 52%);
+}
